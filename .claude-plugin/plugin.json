@@ -1,0 +1,13 @@
+{
+  "name": "decisions-pane",
+  "version": "0.2.0",
+  "description": "待你决定：常驻面板，读 decisions.json，卡片 + 按钮把选择发回对话",
+  "userConfig": {
+    "file": {
+      "type": "string",
+      "title": "数据文件",
+      "description": "decisions.json 的路径（相对工作目录）；留空时依次找 .claude/decisions.json、decisions.json",
+      "default": ""
+    }
+  }
+}

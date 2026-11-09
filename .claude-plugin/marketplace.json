@@ -1,0 +1,5 @@
+{
+  "name": "decisions-pane",
+  "owner": { "name": "brq1992" },
+  "plugins": [{ "name": "decisions-pane", "source": "./" }]
+}
